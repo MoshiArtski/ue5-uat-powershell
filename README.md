@@ -1,5 +1,5 @@
-# ue5-uat-powershell
-PowerShell Script for Cleaning and Building Unreal Engine Projects
+# PowerShell Script for Cleaning and Building Unreal Engine Projects
+
 This repository contains a PowerShell script that helps in cleaning and building Unreal Engine projects. The script is particularly useful for developers working with Unreal Engine 5.1.
 
 Description
